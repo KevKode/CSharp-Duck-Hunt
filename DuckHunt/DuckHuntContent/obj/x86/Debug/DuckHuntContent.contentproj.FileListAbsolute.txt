@@ -1,0 +1,3 @@
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\DuckHunt\DuckHunt\DuckHuntContent\obj\x86\Debug\DuckHuntContent.contentprojResolveAssemblyReference.cache
+C:\Users\Kevin\Documents\GitHub\Code\Projects\DuckHunt\DuckHunt\DuckHuntContent\obj\x86\Debug\DuckHuntContent.contentprojResolveAssemblyReference.cache
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHuntContent\obj\x86\Debug\DuckHuntContent.contentprojResolveAssemblyReference.cache

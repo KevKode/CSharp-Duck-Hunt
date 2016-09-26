@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>flora.png</Source>
+      <Name>flora</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\flora.xnb</Output>
+      <Time>2015-02-23T13:46:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>screen.png</Source>
+      <Name>screen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\screen.xnb</Output>
+      <Time>2015-03-11T14:38:14-04:00</Time>
+    </Item>
+    <Item>
+      <Source>dogWalk.png</Source>
+      <Name>dogWalk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\dogWalk.xnb</Output>
+      <Time>2015-02-24T13:28:48-05:00</Time>
+    </Item>
+    <Item>
+      <Source>duck.png</Source>
+      <Name>duck</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\duck.xnb</Output>
+      <Time>2015-02-25T12:23:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>reticle.png</Source>
+      <Name>reticle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\reticle.xnb</Output>
+      <Time>2015-03-02T13:58:54-05:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion.png</Source>
+      <Name>explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\explosion.xnb</Output>
+      <Time>2015-03-03T13:33:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>shot0.png</Source>
+      <Name>shot0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\shot0.xnb</Output>
+      <Time>2015-03-09T15:58:22-04:00</Time>
+    </Item>
+    <Item>
+      <Source>shot1.png</Source>
+      <Name>shot1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\shot1.xnb</Output>
+      <Time>2015-03-11T16:58:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>shot2.png</Source>
+      <Name>shot2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\shot2.xnb</Output>
+      <Time>2015-03-11T16:58:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>shot3.png</Source>
+      <Name>shot3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\shot3.xnb</Output>
+      <Time>2015-03-11T16:58:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pointDuck.png</Source>
+      <Name>pointDuck</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\pointDuck.xnb</Output>
+      <Time>2015-03-10T09:56:12-04:00</Time>
+    </Item>
+    <Item>
+      <Source>directions.png</Source>
+      <Name>directions</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\directions.xnb</Output>
+      <Time>2015-03-16T12:31:04-04:00</Time>
+    </Item>
+    <Item>
+      <Source>endDog.png</Source>
+      <Name>endDog</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\endDog.xnb</Output>
+      <Time>2015-03-12T13:59:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>cloud.png</Source>
+      <Name>cloud</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\cloud.xnb</Output>
+      <Time>2015-03-13T10:47:36-04:00</Time>
+    </Item>
+    <Item>
+      <Source>gunshot.wav</Source>
+      <Name>gunshot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\gunshot.xnb</Output>
+      <Time>2015-03-04T13:20:30-05:00</Time>
+    </Item>
+    <Item>
+      <Source>gunCock.wav</Source>
+      <Name>gunCock</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\gunCock.xnb</Output>
+      <Time>2015-03-10T10:31:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>gunDry.wav</Source>
+      <Name>gunDry</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\gunDry.xnb</Output>
+      <Time>2015-03-10T10:47:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>quackSound.wav</Source>
+      <Name>quackSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\quackSound.xnb</Output>
+      <Time>2015-03-10T12:50:02-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sniff.wav</Source>
+      <Name>sniff</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\sniff.xnb</Output>
+      <Time>2015-03-11T16:06:18-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Quartz.spritefont</Source>
+      <Name>Quartz</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\Quartz.xnb</Output>
+      <Time>2015-03-10T09:37:34-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{3D725741-AD49-46BF-9784-A12FB4014D11}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHuntContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-09-20T13:24:59.6652655-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

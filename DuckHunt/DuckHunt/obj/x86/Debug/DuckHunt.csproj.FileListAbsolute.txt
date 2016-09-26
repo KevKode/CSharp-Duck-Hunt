@@ -1,0 +1,98 @@
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\DuckHunt\DuckHunt\DuckHunt\obj\x86\Debug\DuckHunt.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\DuckHunt\DuckHunt\DuckHunt\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\dogWalk.xnb
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\DuckHunt.exe
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\DuckHunt.pdb
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\DuckHunt\DuckHunt\DuckHunt\obj\x86\Debug\DuckHunt.exe
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\DuckHunt\DuckHunt\DuckHunt\obj\x86\Debug\DuckHunt.pdb
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\screen.xnb
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\flora.xnb
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\duck.xnb
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\reticle.xnb
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\explosion.xnb
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\gunshot.xnb
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\shot0.xnb
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\shot1.xnb
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\shot2.xnb
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\shot3.xnb
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\pointDuck.xnb
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\Quartz.xnb
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\gunCock.xnb
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\gunDry.xnb
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\quackSound.xnb
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\sniff.xnb
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\directions.xnb
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\endDog.xnb
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\cloud.xnb
+C:\Users\Kevin\Documents\GitHub\Code\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\flora.xnb
+C:\Users\Kevin\Documents\GitHub\Code\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\screen.xnb
+C:\Users\Kevin\Documents\GitHub\Code\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\dogWalk.xnb
+C:\Users\Kevin\Documents\GitHub\Code\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\duck.xnb
+C:\Users\Kevin\Documents\GitHub\Code\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\reticle.xnb
+C:\Users\Kevin\Documents\GitHub\Code\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\explosion.xnb
+C:\Users\Kevin\Documents\GitHub\Code\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\shot0.xnb
+C:\Users\Kevin\Documents\GitHub\Code\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\shot1.xnb
+C:\Users\Kevin\Documents\GitHub\Code\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\shot2.xnb
+C:\Users\Kevin\Documents\GitHub\Code\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\shot3.xnb
+C:\Users\Kevin\Documents\GitHub\Code\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\pointDuck.xnb
+C:\Users\Kevin\Documents\GitHub\Code\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\directions.xnb
+C:\Users\Kevin\Documents\GitHub\Code\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\endDog.xnb
+C:\Users\Kevin\Documents\GitHub\Code\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\cloud.xnb
+C:\Users\Kevin\Documents\GitHub\Code\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\gunshot.xnb
+C:\Users\Kevin\Documents\GitHub\Code\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\gunCock.xnb
+C:\Users\Kevin\Documents\GitHub\Code\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\gunDry.xnb
+C:\Users\Kevin\Documents\GitHub\Code\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\quackSound.xnb
+C:\Users\Kevin\Documents\GitHub\Code\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\sniff.xnb
+C:\Users\Kevin\Documents\GitHub\Code\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\Quartz.xnb
+C:\Users\Kevin\Documents\GitHub\Code\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\DuckHunt.exe
+C:\Users\Kevin\Documents\GitHub\Code\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\DuckHunt.pdb
+C:\Users\Kevin\Documents\GitHub\Code\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Kevin\Documents\GitHub\Code\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Kevin\Documents\GitHub\Code\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Kevin\Documents\GitHub\Code\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Kevin\Documents\GitHub\Code\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Kevin\Documents\GitHub\Code\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Kevin\Documents\GitHub\Code\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Kevin\Documents\GitHub\Code\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Kevin\Documents\GitHub\Code\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Kevin\Documents\GitHub\Code\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Kevin\Documents\GitHub\Code\Projects\DuckHunt\DuckHunt\DuckHunt\obj\x86\Debug\DuckHunt.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Documents\GitHub\Code\Projects\DuckHunt\DuckHunt\DuckHunt\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Kevin\Documents\GitHub\Code\Projects\DuckHunt\DuckHunt\DuckHunt\obj\x86\Debug\DuckHunt.exe
+C:\Users\Kevin\Documents\GitHub\Code\Projects\DuckHunt\DuckHunt\DuckHunt\obj\x86\Debug\DuckHunt.pdb
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\flora.xnb
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\screen.xnb
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\dogWalk.xnb
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\duck.xnb
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\reticle.xnb
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\explosion.xnb
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\shot0.xnb
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\shot1.xnb
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\shot2.xnb
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\shot3.xnb
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\pointDuck.xnb
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\directions.xnb
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\endDog.xnb
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\cloud.xnb
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\gunshot.xnb
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\gunCock.xnb
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\gunDry.xnb
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\quackSound.xnb
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\sniff.xnb
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\Quartz.xnb
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\DuckHunt.exe
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\DuckHunt.pdb
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\obj\x86\Debug\DuckHunt.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\obj\x86\Debug\DuckHunt.exe
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\obj\x86\Debug\DuckHunt.pdb
