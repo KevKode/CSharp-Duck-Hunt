@@ -5,7 +5,7 @@ Preface: This code is old and is not a good representation of the programmer I a
 
 Description: This is a copy of the original NES Duck Hunt written in C# and XNA.
 
-Runable: The RUNME.jar is a executeable of the game. Requires Java on computer.
+Runable: The publish/ directory contains all files to install and run the game on another computer.
 
 Images:
 
