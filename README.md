@@ -6,6 +6,7 @@ Preface: This code is old and is not a good representation of the programmer I a
 Description: This is a copy of the original NES Duck Hunt written in C# and XNA.
 
 Images:
+
 ![alt tag](http://i.imgur.com/0gOgzo8.png)
 
 ![alt tag](http://i.imgur.com/bCC9iBg.png)
