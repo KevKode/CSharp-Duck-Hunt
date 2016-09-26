@@ -96,3 +96,7 @@ C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\
 C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\obj\x86\Debug\DuckHunt.exe
 C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\obj\x86\Debug\DuckHunt.pdb
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\DuckHunt.exe.manifest
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\DuckHunt.application
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\obj\x86\Debug\DuckHunt.exe.manifest
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\DuckHunt\DuckHunt\DuckHunt\obj\x86\Debug\DuckHunt.application
